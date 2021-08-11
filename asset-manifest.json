@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopeLine-react/static/css/main.406e2885.chunk.css",
+    "main.js": "/shopeLine-react/static/js/main.478df3e7.chunk.js",
+    "main.js.map": "/shopeLine-react/static/js/main.478df3e7.chunk.js.map",
+    "runtime-main.js": "/shopeLine-react/static/js/runtime-main.8df957c9.js",
+    "runtime-main.js.map": "/shopeLine-react/static/js/runtime-main.8df957c9.js.map",
+    "static/css/2.630ef54a.chunk.css": "/shopeLine-react/static/css/2.630ef54a.chunk.css",
+    "static/js/2.f2c5d1e5.chunk.js": "/shopeLine-react/static/js/2.f2c5d1e5.chunk.js",
+    "static/js/2.f2c5d1e5.chunk.js.map": "/shopeLine-react/static/js/2.f2c5d1e5.chunk.js.map",
+    "static/js/3.9c9bb85e.chunk.js": "/shopeLine-react/static/js/3.9c9bb85e.chunk.js",
+    "static/js/3.9c9bb85e.chunk.js.map": "/shopeLine-react/static/js/3.9c9bb85e.chunk.js.map",
+    "index.html": "/shopeLine-react/index.html",
+    "static/css/2.630ef54a.chunk.css.map": "/shopeLine-react/static/css/2.630ef54a.chunk.css.map",
+    "static/css/main.406e2885.chunk.css.map": "/shopeLine-react/static/css/main.406e2885.chunk.css.map",
+    "static/js/2.f2c5d1e5.chunk.js.LICENSE.txt": "/shopeLine-react/static/js/2.f2c5d1e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8df957c9.js",
+    "static/css/2.630ef54a.chunk.css",
+    "static/js/2.f2c5d1e5.chunk.js",
+    "static/css/main.406e2885.chunk.css",
+    "static/js/main.478df3e7.chunk.js"
+  ]
+}
