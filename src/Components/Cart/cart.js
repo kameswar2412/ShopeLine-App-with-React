@@ -23,7 +23,6 @@ const cartLength=cart.length
     render() {
     const {cart=[]}=this.props
 
-    console.log(cart)
     
         return (
             <div className="pt-4" style={{width:"100%"}}>
